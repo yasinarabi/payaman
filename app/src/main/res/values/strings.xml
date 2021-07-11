@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Payaman</string>
+    <string name="copied">رمز دوم کپی شد!</string>
+    <string name="main_text">در حال حاضر پیامن از بانک های زیر پشتیبانی می کند.</string>
+</resources>
